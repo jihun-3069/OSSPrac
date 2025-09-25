@@ -2,3 +2,5 @@
 ##prac5
 Fetch A merge
 A
+B
+C
